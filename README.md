@@ -5,4 +5,4 @@ For reproducing the figures from our paper, please check out /scripts/readme.txt
 
 Our dataset can be downloaded from:
 
-Here is the annotation tool we used for our annotation experiment:
+Link to the annotation tool we used for our annotation experiment: https://github.com/fensta/annotationtool
