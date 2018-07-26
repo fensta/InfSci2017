@@ -6,3 +6,16 @@ For reproducing the figures from our paper, please check out https://github.com/
 Our dataset can be downloaded from: https://www.researchgate.net/publication/325180810_Infsci2017_dataset
 
 Link to the annotation tool we used for our annotation experiment: https://github.com/fensta/annotationtool
+
+required libraries for the scripts to run using Python 2.7:
+- Python libraries:
+matplotlib 1.4.2
+unicodecsv 0.14.1
+scipy 0.18.1
+numpy 1.12.1
+statsmodels 0.8.0
+editdistance 0.3.1
+to install these package versions, you can use pip as follows:
+pip install <package_name>==<version_number>, e.g.
+pip install numpy==1.12.1
+- R must be installed
