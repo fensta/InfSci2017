@@ -16,6 +16,8 @@ Required libraries for the scripts to run using Python 2.7:
     * statsmodels 0.8.0
     * editdistance 0.3.1
 * R must be installed
+
+
 To install these specific package versions in Python, use pip as follows:
 * pip install <package_name>==<version_number>, e.g.
 * pip install numpy==1.12.1
